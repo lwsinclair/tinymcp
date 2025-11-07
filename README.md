@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/grab-tinymcp-badge.png)](https://mseep.ai/app/grab-tinymcp)
+
 # TinyMCP
 
 A lightweight MCP router for FastAPI.
